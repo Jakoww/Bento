@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Jakov',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -26,17 +26,17 @@ const CONFIG = {
   bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+  weatherKey: '19c4d25d57b224afc7377c5314de6840', // Write here your API Key
   weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '44.16',
+  defaultLongitude: '19.53',
 
   // Autochange
-  autoChangeTheme: true,
+  autoChangeTheme: false,
 
   // Autochabge by OS
   changeThemeByOS: true,
@@ -61,31 +61,31 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'Petlja',
+      icon: 'terminal',
+      link: 'https://petlja.org',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Spotify',
+      icon: 'music',
+      link: 'https://open.spotify.com',
     },
     {
       id: '5',
       name: 'Reddit',
       icon: 'glasses',
-      link: 'https://reddit.com',
+      link: 'https://reddit.com/r/unixporn',
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -161,12 +161,12 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'Discord',
+          link: 'https://www.discord.com/app',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Spotify',
+          link: 'https://www.spotify.com',
         },
         {
           name: 'Trello',
@@ -180,7 +180,7 @@ const CONFIG = {
     },
   ],
 
-  // Second Links Container
+   Second Links Container
   secondListsContainer: [
     {
       icon: 'binary',
@@ -189,7 +189,7 @@ const CONFIG = {
         {
           name: 'Spotify',
           link: 'https://www.spotify.com',
-        },
+       },
         {
           name: 'Reddit',
           link: 'https://www.reddit.com',
