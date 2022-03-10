@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Jakov',
+  name: 'John',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -26,17 +26,17 @@ const CONFIG = {
   bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
-  weatherKey: '19c4d25d57b224afc7377c5314de6840', // Write here your API Key
+  weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
   weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '44.16',
-  defaultLongitude: '19.53',
+  defaultLatitude: '37.775',
+  defaultLongitude: '-122.419',
 
   // Autochange
-  autoChangeTheme: false,
+  autoChangeTheme: true,
 
   // Autochabge by OS
   changeThemeByOS: true,
@@ -61,31 +61,31 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.google.com/',
+      link: 'https://mail.protonmail.com/',
     },
     {
       id: '3',
-      name: 'Petlja',
-      icon: 'terminal',
-      link: 'https://petlja.org',
+      name: 'Todoist',
+      icon: 'trello',
+      link: 'https://todoist.com',
     },
     {
       id: '4',
-      name: 'Spotify',
-      icon: 'music',
-      link: 'https://open.spotify.com',
+      name: 'Calendar',
+      icon: 'calendar',
+      link: 'https://calendar.google.com/calendar/r',
     },
     {
       id: '5',
       name: 'Reddit',
       icon: 'glasses',
-      link: 'https://reddit.com/r/unixporn',
+      link: 'https://reddit.com',
     },
     {
       id: '6',
-      name: 'Youtube',
+      name: 'Odysee',
       icon: 'youtube',
-      link: 'https://youtube.com/',
+      link: 'https://odysee.com/',
     },
   ],
 
