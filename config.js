@@ -139,20 +139,20 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Doomer shiet',
+          link: 'https://open.spotify.com/playlist/519AFdnCC9UKUMQAyy3O8s',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'nvm',
+          link: 'https://open.spotify.com/playlist/3Hz0OXYdY9uHP7CzXsJs5t',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Najaci workout',
+          link: 'https://open.spotify.com/playlist/2vFaBrY4Zf58DqKxduAUF5',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'ExYu',
+          link: 'https://open.spotify.com/playlist/2ACppyLr2CvG3DFW6vlAr5',
         },
       ],
     },
