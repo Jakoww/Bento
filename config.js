@@ -165,8 +165,8 @@ const CONFIG = {
           link: 'https://www.discord.com/app',
         },
         {
-          name: 'Spotify',
-          link: 'https://www.spotify.com',
+          name: 'Classroom',
+          link: 'https://classroom.google.com/u/1/h',
         },
         {
           name: 'Trello',
