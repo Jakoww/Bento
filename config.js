@@ -161,12 +161,12 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Discord',
-          link: 'https://www.discord.com/app',
+          name: 'Linkedin',
+          link: 'https://www.linkedin.com',
         },
         {
-          name: 'Spotify',
-          link: 'https://www.spotify.com',
+          name: 'Dribbble',
+          link: 'https://www.dribbble.com',
         },
         {
           name: 'Trello',
@@ -180,7 +180,7 @@ const CONFIG = {
     },
   ],
 
-   Second Links Container
+  // Second Links Container
   secondListsContainer: [
     {
       icon: 'binary',
@@ -189,7 +189,7 @@ const CONFIG = {
         {
           name: 'Spotify',
           link: 'https://www.spotify.com',
-       },
+        },
         {
           name: 'Reddit',
           link: 'https://www.reddit.com',
