@@ -143,7 +143,7 @@ const CONFIG = {
           link: 'https://open.spotify.com/playlist/519AFdnCC9UKUMQAyy3O8s',
         },
         {
-          name: 'nvm',
+          name: 'Nvm',
           link: 'https://open.spotify.com/playlist/3Hz0OXYdY9uHP7CzXsJs5t',
         },
         {
